@@ -1,0 +1,7 @@
+{
+  "name": "node-domexception",
+  "version": "1.0.0",
+  "description": "stub for node-domexception",
+  "main": "index.js",
+  "type": "module"
+}
